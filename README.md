@@ -79,5 +79,4 @@ Read the full companion article:
 
 ## Author
 
-Scott Germaise  
-[TetraMesa.com](https://tetramesa.com/)
+Scott Germaise
