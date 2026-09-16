@@ -7,6 +7,7 @@ This repository is the companion artifact for the article **[The API Bill Is a P
 ## Download the model
 
 **[Download API_Product_Unit_Economics_Model_v2.xlsx](./API_Product_Unit_Economics_Model_v2.xlsx)**
+(to download it, go to the link, and on the top right, click the ellipsis (...) menu to download.)
 
 Version 2.0 · August 2026  
 All sample numbers in the workbook are fictional.
