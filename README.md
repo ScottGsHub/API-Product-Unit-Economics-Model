@@ -76,7 +76,7 @@ The useful question is:
 
 Read the full companion article:
 
-**[The API Bill Is a Product & Finance Decision](https://tetramesa.com/the-api-bill-is-a-product-finance-decision/)**
+**[The API Bill Is a Product & Finance Decision](https://www.linkedin.com/pulse/api-bill-product-finance-decision-scott-germaise-spsjc/)**
 
 ## Author
 
